@@ -7,4 +7,5 @@ also an overview of the collected data.
 
 The service and the GUI config Application are based on C#.
 
-The documentation and the presentation are both in German. 
+The documentation as PDF format and the presentation as MS PowerPoint format are both in German.
+ 
